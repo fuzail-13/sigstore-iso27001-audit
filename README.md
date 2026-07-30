@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Full Audit Document
-👉 **[Click here to view or download the complete Audit Report (PDF)](./https://github.com/fuzail-13/sigstore-iso27001-audit/blob/main/FuzailKhan_SigstoreSimulatedAuditReport_ISO27001.pdf)**
+👉 **[Click here to view or download the complete Audit Report (PDF)](./FuzailKhan_SigstoreSimulatedAuditReport_ISO27001.pdf)**
 
 ---
 
